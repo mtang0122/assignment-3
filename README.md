@@ -2,7 +2,7 @@
 Group: Marcus Tang - mtang0122
 
 ### Live Link 
-[Website link](https://johnnylaicode.github.io/bank-of-react-starter-code/)
+[Website link](https://mtang0122.github.io/assignment-3/)
 
 ### 3. Use the following commands to install dependencies and run the application
 
